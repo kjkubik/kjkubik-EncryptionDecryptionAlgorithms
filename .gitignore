@@ -25,6 +25,10 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+# .lookupe - contains generated encryption table
+.lookupe
+# .lookupd - contains decryption table 
+.lookupd
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
